@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1f3d0b1b-23f1-4a14-8b0c-31cb852a17ba" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cClHZesJXtgvgwL3o69U2it2V4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="normalize" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="normalize" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.NormalizeTest.shouldReturnDictionaryWithNormalizedValueBetweenOneInterval">
+    <configuration name="NormalizeTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;normalize.NormalizeTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="NormalizeTest.ShouldReturnDictionaryWithNormalizedValueGivenThreeDates" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;normalize.NormalizeTest.ShouldReturnDictionaryWithNormalizedValueGivenThreeDates&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="NormalizeTest.shouldReturnDictionaryWithNormalizedValueBetweenOneInterval" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;normalize.NormalizeTest.shouldReturnDictionaryWithNormalizedValueBetweenOneInterval&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="NormalizeTest.shouldReturnDictionaryWithNormalizedValueOfMissingDates" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;normalize.NormalizeTest.shouldReturnDictionaryWithNormalizedValueOfMissingDates&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="NormalizeTest.shouldReturnMissingDatesInKeys" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;normalize.NormalizeTest.shouldReturnMissingDatesInKeys&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.NormalizeTest.shouldReturnDictionaryWithNormalizedValueBetweenOneInterval" />
+        <item itemvalue="Gradle.NormalizeTest" />
+        <item itemvalue="Gradle.NormalizeTest.ShouldReturnDictionaryWithNormalizedValueGivenThreeDates" />
+        <item itemvalue="Gradle.NormalizeTest.shouldReturnDictionaryWithNormalizedValueOfMissingDates" />
+        <item itemvalue="Gradle.NormalizeTest.shouldReturnMissingDatesInKeys" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f3d0b1b-23f1-4a14-8b0c-31cb852a17ba" name="Default Changelist" comment="" />
+      <created>1590040368807</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590040368807</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="533" y="158" key="#com.intellij.ide.util.MemberChooser" timestamp="1590048633501">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="533" y="158" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1590048633501" />
+    <state width="1396" height="629" key="GridCell.Tab.0.bottom" timestamp="1590049047026">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="629" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1590049047026" />
+    <state width="1396" height="223" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1590041115202" />
+    <state width="1396" height="629" key="GridCell.Tab.0.center" timestamp="1590049047025">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="629" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1590049047025" />
+    <state width="1396" height="223" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1590041115201" />
+    <state width="1396" height="629" key="GridCell.Tab.0.left" timestamp="1590049047024">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="629" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1590049047024" />
+    <state width="1396" height="223" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1590041115201" />
+    <state width="1396" height="629" key="GridCell.Tab.0.right" timestamp="1590049047026">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="629" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1590049047026" />
+    <state width="1396" height="223" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1590041115202" />
+    <state x="488" y="186" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1590041506050">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="488" y="186" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1440.900@0.0.1440.900" timestamp="1590041506050" />
+    <state x="488" y="204" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1440.877@0.23.1440.877" timestamp="1590040653848" />
+    <state x="458" y="205" key="extract.method.dialog" timestamp="1590043588035">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="458" y="205" key="extract.method.dialog/0.0.1440.900@0.0.1440.900" timestamp="1590043588035" />
+    <state x="278" y="166" width="884" height="568" key="find.popup" timestamp="1590041969074">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="278" y="166" width="884" height="568" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1590041969074" />
+    <state x="465" y="62" key="refactoring.ChangeSignatureDialog" timestamp="1590047457156">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="465" y="62" key="refactoring.ChangeSignatureDialog/0.0.1440.900@0.0.1440.900" timestamp="1590047457156" />
+  </component>
+</project>
